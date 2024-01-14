@@ -6,4 +6,6 @@
 };
 
 // Custom IP map to UIO
-
+&nn_inference_0 {
+    compatible = "generic-uio";
+};
